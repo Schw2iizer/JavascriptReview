@@ -83,7 +83,10 @@ methodCollection.logHello()
 
 /* NEXT PROBLEM - NEXT PROBLEM - NEXT PROBLEM */
 
+var voweler = function(str){
+  return 
 
+}
 
 //write a function called voweler that accepts a string, and returns an object with the keys being all the vowels in that string, and the values being how many times that particular vowel was in the string.
 //voweler("This is a test") --> {i: 2, a: 1, e: 1};
