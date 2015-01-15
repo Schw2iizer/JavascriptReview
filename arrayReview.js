@@ -3,7 +3,7 @@ var threeItems = [1,2,3];
 //alert the result of your function
 
 var last = function(n){
-	alert(n.length);
+	return (n.length);
 }
 
 last(threeItems);
@@ -71,6 +71,7 @@ var sentence = "Dev Mountain is the best"
 
 var longest = function(){
 	var sentence = "Dev Mountain is the best";
+	return 
 }
 
 
