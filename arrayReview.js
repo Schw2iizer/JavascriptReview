@@ -3,7 +3,7 @@ var threeItems = [1,2,3];
 //alert the result of your function
 
 var last = function(n){
-	return (n.length);
+	return (n.length - 1);
 }
 
 last(threeItems);
@@ -71,8 +71,8 @@ var sentence = "Dev Mountain is the best"
 
 var longest = function(){
 	var sentence = "Dev Mountain is the best";
-	return 
-}
+	
+};
 
 
 /* NEXT PROBLEM - NEXT PROBLEM - NEXT PROBLEM */
@@ -83,9 +83,13 @@ var longest = function(){
 var myPoem = 'What is a jQuery but a misunderstood object?'
 //What is a jQuery but a misunderstood object? --> What Is A JQuery But A Misunderstood Object?
 
-  //code here
+var capitalize = function(myPoem) {
+	var myPoem = "What is a jQuery but a misunderstood object?";
+			return sentence.charAt().toUpperCase();
+		}
 
 
+capitalize(test);
 
 /* NEXT PROBLEM - NEXT PROBLEM - NEXT PROBLEM */
 
